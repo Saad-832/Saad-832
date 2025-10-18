@@ -1,4 +1,24 @@
-## Hi there 👋
+##👋 Hi, I'm Muhammad Saad  
+🌍 From Pakistan  
+💻 Beginner Frontend Developer (HTML, CSS)  
+🎯 Passionate about building clean and responsive websites  
+📚 Currently learning JavaScript  
+📫 How to reach me: [codewithsaad69@gmail.com]
+
+## 🔧 Skills
+- HTML5  
+- CSS3 (Responsive Design)
+- Git & GitHub (Basics)
+
+## 🚀 Projects
+1. Clones  
+2. Profile Card Design  
+3. Landing Page Layout
+
+Thanks for visiting my GitHub profile 😊
+
+
+
 
 <!--
 **Saad-832/Saad-832** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
