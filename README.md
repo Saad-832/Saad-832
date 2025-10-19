@@ -10,8 +10,16 @@
 - CSS3 (Responsive Design)
 - Git & GitHub (Basics)
 
-## 🚀 Projects
-1. Clones  
+## 🚀 My Projects
+
+###  🏡 Web-Clones
+
+✅Daraz-Clone  
+🔗 [Live Demo](https://saad-832.github.io/Daraz-Clone/)  
+💻 [Source Code](https://github.com/Saad-832/Daraz-Clone.git)
+
+
+
 2. Profile Card Design  
 3. Landing Page Layout
 
