@@ -24,10 +24,18 @@
 🔗 [Live Demo]( https://saad-832.github.io/Amazon-Clone/)  
 💻 [Source Code](https://github.com/Saad-832/Amazon-Clone.git)
 
+###   🔳 Card Design
 
+✅Profile-Card
 
-2. Profile Card Design  
-3. Landing Page Layout
+🔗 [Live Demo]( https://saad-832.github.io/Profile-Card/)  
+💻 [Source Code](https://github.com/Saad-832/Profile-Card.git)
+
+✅Flipping-Card
+
+🔗 [Live Demo](https://saad-832.github.io/Flipping-Card/)  
+💻 [Source Code](https://github.com/Saad-832/Flipping-Card.git)
+
 
 Thanks for visiting my GitHub profile 😊
 
